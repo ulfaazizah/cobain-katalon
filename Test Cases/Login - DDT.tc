@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login - DDT</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3b6220f4-0cd5-4ee8-94ce-1014d7007cc4</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ee32fec0-53b7-4cd3-a2d2-cfb531c4c842</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>017fd361-fbec-4444-896e-282573cf604c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'John Doe'</defaultValue>
+      <description></description>
+      <id>ee32fec0-53b7-4cd3-a2d2-cfb531c4c842</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'ThisIsNotAPassword\r\n'</defaultValue>
+      <description></description>
+      <id>017fd361-fbec-4444-896e-282573cf604c</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

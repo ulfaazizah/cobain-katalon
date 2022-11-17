@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "99D5AE99FA0E44FDD7B5557BEF38AD97",
+  "keywordClasses": [
+    {
+      "name": "newpackage.newHelloWorld",
+      "keywordMethods": [
+        {
+          "name": "myCustomPrint",
+          "parameters": [
+            {
+              "name": "msg",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
